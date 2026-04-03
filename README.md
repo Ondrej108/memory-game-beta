@@ -2,7 +2,7 @@
 
 An interactive memory card game built with vanilla JavaScript, focused on game logic, DOM manipulation, and user interaction.
 
-Live Demo: https://ondrej108.github.io/Memory-game/
+Live Demo: https://ondrej108.github.io/memory-game-beta/
 
 ---
 
