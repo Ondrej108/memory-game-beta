@@ -36,7 +36,7 @@ Live Demo: https://ondrej108.github.io/memory-game-beta/
 
 ## Project Structure
 
-
+```
 memory-game/
 ├── index.html
 ├── style.css
@@ -44,6 +44,7 @@ memory-game/
 ├── script.js
 ├── translation.js
 └── img/
+```
 
 
 ---
